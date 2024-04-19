@@ -1,0 +1,4 @@
+model,accuracy
+auto-encoder,0.4809
+variational auto-encoder,0.5923
+sparse auto-encoder,0.4809
